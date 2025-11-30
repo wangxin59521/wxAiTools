@@ -1,0 +1,5 @@
+cn\com\wangcw\pdfhelper\PdfToWordConverter$OCRWorker.class
+cn\com\wangcw\pdfhelper\PdfToWordConverter.class
+cn\com\wangcw\pdfhelper\PdfToMarkdownConverter.class
+cn\com\wangcw\pdfhelper\PdfToMarkdownConverter$OCRWorker.class
+cn\com\wangcw\pdfhelper\Main.class
